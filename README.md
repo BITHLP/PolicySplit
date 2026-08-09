@@ -2,7 +2,7 @@
 
 **Incentivizing Dual-Mode Exploration in LLM Reinforcement with Dual-Mode Entropy Regularization**
 
-[📄 Paper](https://arxiv.org/abs/2606.04701) · [💻 Code](https://github.com/BITHLP/PolicySplit) · **English** | [简体中文](README.zh-CN.md)
+[📄 Paper](https://arxiv.org/abs/2604.11510) · [💻 Code](https://github.com/BITHLP/PolicySplit) · **English** | [简体中文](README.zh-CN.md)
 
 ---
 
